@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/Nourollah/Nourollah/master/profile.gif)]
+![](https://raw.githubusercontent.com/Nourollah/Nourollah/master/profile.gif)
 
 ### Languages
 

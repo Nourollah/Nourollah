@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/Nourollah/Nourollah/master/profile.gif)
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)

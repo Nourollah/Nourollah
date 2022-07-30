@@ -1,7 +1,7 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Rust](https://img.shields.io/badge/-C-000?&logo=Rust)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
 

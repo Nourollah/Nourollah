@@ -1,21 +1,21 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Rust](https://img.shields.io/badge/-C-000?&logo=Rust)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
 
 ### Technologies
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Ivy](https://img.shields.io/badge/-ivy-000?&logo=spring)
+![OpenMMLab](https://img.shields.io/badge/-OpenMMLab-000?&logo=shell)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
-![OpenMMLab](https://img.shields.io/badge/-OpenMMLab-000?&logo=GitHub)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
 
 ### Machine Learning Projects
 

@@ -1,14 +1,17 @@
-### Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
+![Python](https://img.shields.io/badge/-Python-yellow?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-blue?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-green?&logo=PostgreSQL)
+
+### Preferred Programming Languages
+![Python](https://img.shields.io/badge/-Python-yellow?&logo=Python)
+![C#](https://img.shields.io/badge/-C%23-blue?&logo=C%23)
+![Rust](https://img.shields.io/badge/-Rust-red?&logo=Rust)
 
 ### Technologies
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![Ivy](https://img.shields.io/badge/-ivy-000?&logo=spring)
 ![OpenMMLab](https://img.shields.io/badge/-OpenMMLab-000?&logo=shell)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)

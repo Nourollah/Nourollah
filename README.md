@@ -2,12 +2,18 @@
 
 ![Python](https://img.shields.io/badge/-Python-yellow?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-blue?&logo=c%2b%2b&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-brown?&logo=Apache)
 ![SQL](https://img.shields.io/badge/-SQL-green?&logo=PostgreSQL)
 
 ### Preferred Programming Languages
 ![Python](https://img.shields.io/badge/-Python-yellow?&logo=Python)
-![C#](https://img.shields.io/badge/-C%23-blue?&logo=C%23)
 ![Rust](https://img.shields.io/badge/-Rust-red?&logo=Rust)
+![C++](https://img.shields.io/badge/-C++-blue?&logo=c%2b%2b&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-brown?&logo=Apache)
+![C#](https://img.shields.io/badge/-C%23-blue?&logo=csharp)
+![Kotlin](https://img.shields.io/badge/-Kotlin-Yellow?&logo=Kotlin)
+![Scala](https://img.shields.io/badge/-Scala-Pink?&logo=Scala)
+![SQL](https://img.shields.io/badge/-SQL-green?&logo=PostgreSQL)
 
 ### Technologies
 

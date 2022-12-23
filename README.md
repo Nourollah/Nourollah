@@ -2,17 +2,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-yellow?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-blue?&logo=c%2b%2b&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-brown?&logo=Apache)
-![SQL](https://img.shields.io/badge/-SQL-green?&logo=PostgreSQL)
-
-### Preferred Programming Languages
-![Python](https://img.shields.io/badge/-Python-yellow?&logo=Python)
-![Rust](https://img.shields.io/badge/-Rust-red?&logo=Rust)
-![C++](https://img.shields.io/badge/-C++-blue?&logo=c%2b%2b&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-brown?&logo=Apache)
-![C#](https://img.shields.io/badge/-C%23-blue?&logo=csharp)
-![Kotlin](https://img.shields.io/badge/-Kotlin-Yellow?&logo=Kotlin)
-![Scala](https://img.shields.io/badge/-Scala-Pink?&logo=Scala)
 ![SQL](https://img.shields.io/badge/-SQL-green?&logo=PostgreSQL)
 
 ### Technologies
@@ -20,30 +9,24 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![OpenMMLab](https://img.shields.io/badge/-OpenMMLab-000?&logo=shell)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=flask)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
 
-### Machine Learning Projects
+### I am available in the following 
+- [Mail](mailto:nourollah.am@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/amnrl/)
+- [Telegram](https://t.me/nourollah_am)
+
+<!-- ### Machine Learning Projects
 
 [![](https://img.shields.io/badge/-🧬%20NeuralNetworkFromScratch-000)](https://github.com/Nourollah/NeuralNetworkFromScratch)
 [![](https://img.shields.io/badge/-🦠%20Python%20ImageProcessing-000)](https://github.com/Nourollah/Python_ImageProcessing)
 
-[//]: # ([![]&#40;https://img.shields.io/badge/-📝%20Summarizer-000&#41;]&#40;&#41;)
-[//]: # ([![]&#40;https://img.shields.io/badge/-🔬%20Overwatch-000&#41;]&#40;&#41;)
-[//]: # ([![]&#40;https://img.shields.io/badge/-🛰%20KubeSat-000&#41;]&#40;&#41;)
-[//]: # ([![]&#40;https://img.shields.io/badge/-🔊%20Voice%20Poker-000&#41;]&#40;&#41;)
-[//]: # ([![]&#40;https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000&#41;]&#40;&#41;)
-
-[//]: # (### Web Project)
-
-[//]: # ([![]&#40;https://img.shields.io/badge/-🩸%20Heartbleed-000&#41;]&#40;&#41;)
-[//]: # ([![]&#40;https://img.shields.io/badge/-🌊%20SYN%20Flood-000&#41;]&#40;&#41;)
-[//]: # ([![]&#40;https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000&#41;]&#40;&#41;)
-[//]: # ([![]&#40;https://img.shields.io/badge/-💉%20SQL%20Injection-000&#41;]&#40;&#41;)
-[//]: # ([![]&#40;https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000&#41;]&#40;&#41;)
-[//]: # ([![]&#40;https://img.shields.io/badge/-🌐%20Network%20Tools-000&#41;]&#40;&#41;)
+ -->
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Nourollah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourollah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />

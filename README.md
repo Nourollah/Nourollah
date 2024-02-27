@@ -2,16 +2,14 @@
 
 ![Python](https://img.shields.io/badge/-Python-yellow?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-blue?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-green?&logo=PostgreSQL)
 
 ### Technologies
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![OpenMMLab](https://img.shields.io/badge/-OpenMMLab-000?&logo=shell)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+![SQLModel](https://img.shields.io/badge/-SQLAlchemy-000?&logo=flask)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=flask)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)

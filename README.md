@@ -7,7 +7,7 @@
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
-![SQLModel](https://img.shields.io/badge/-SQLAlchemy-000?&logo=flask)
+![SQLModel](https://img.shields.io/badge/-SQLModel-000?&logo=Hibernate)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)

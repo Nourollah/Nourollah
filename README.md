@@ -3,22 +3,12 @@
 ![Python](https://img.shields.io/badge/-Python-yellow?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-blue?&logo=c%2b%2b&logoColor=00599C)
 
-### Technologies
+### Frameworks
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
-![SQLModel](https://img.shields.io/badge/-SQLModel-000?&logo=Hibernate)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
 
-### I am available in the following 
-- [Mail](mailto:nourollah.am@gmail.com) 
-- [LinkedIn](https://www.linkedin.com/in/amnrl/)
-- [Telegram](https://t.me/nourollah_am)
+
 
 <!-- ### Machine Learning Projects
 
